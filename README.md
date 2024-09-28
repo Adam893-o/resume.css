@@ -11,7 +11,7 @@
       <nav class="navigation">
         <ul>
           <li><a href="https://adam893-o.github.io/jupiter2.css/">About Jupiter</a></li>
-          <li><a href="https://adam893-o.github.io/resume2.css/">Adam's Resume</a></li>
+          <li><a href="https://adam893-o.github.io/resume.css/">Adam's Resume</a></li>
           <li><a href="https://adam893-o.github.io/Project-1-UNO">Facts About UNO</a></li>
         </ul>
       </nav>
