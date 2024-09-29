@@ -71,10 +71,11 @@ img {
 }
 
 #box1 {
-	background-color: #888888;
+	background-color: #5dffdc;
+	display: fixed;
 	padding: 20px;
-	border:10px dashed silver;
-	width: 80%;
+	border:10px ridge silver;
+	width: 40%;
 }
 
 .header-content {
