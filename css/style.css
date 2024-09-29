@@ -70,13 +70,6 @@ img {
 	color: #00ffea
 }
 
-#box1 {
-	background-color: #888888;
-	padding: 20px;
-	border:10px dashed green;
-	width: 80%;
-}
-
 .header-content {
     display: flex;
     justify-content: flex-end;
@@ -91,6 +84,7 @@ img {
     font-family: 'Devonshire', Arial;
     color: #add8e6;
 }
+
 
 div {
 	text-align: center;
