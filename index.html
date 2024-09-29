@@ -19,7 +19,6 @@
   </header>
 	<div id="box1">
   <h1>Adam's Resume</h1>
-	</div>
   <h2>Education</h2>
     <ul>
 	  <li>Moraine Valley Community College Palos Hill, IL Associates degree in Liberal Arts</li>
