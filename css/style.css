@@ -48,6 +48,13 @@ body {
 	border-radius: 12px 12px 0px 0px;
 }
 
+#box1 {
+	background-color: #888888;
+	padding: 20px;
+	border:10px dashed silver;
+	width: 80%;
+}
+
 header {
   position: relative;
   margin-top: 40px;
