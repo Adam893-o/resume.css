@@ -17,7 +17,6 @@
       </nav>
 	  </div>
   </header>
-	<div id="box1">
   <h1>Adam's Resume</h1>
   <h2>Education</h2>
     <ul>
