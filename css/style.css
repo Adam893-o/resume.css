@@ -93,7 +93,12 @@ img {
     color: #add8e6;
 }
 
-
+#box2 {
+	background-color: #5dffdc;
+	display: fixed;
+	padding: 20px;
+	border:10px ridge silver;
+	width: 40%;
 div {
 	text-align: center;
 }
@@ -102,6 +107,13 @@ li {
 	color: black;
 	font-size: 1em;
 }
+
+#box3 {
+	background-color: #5dffdc;
+	display: fixed;
+	padding: 20px;
+	border:10px ridge silver;
+	width: 40%;
 
 header a .image1 img {
   margin-top: 20px;
