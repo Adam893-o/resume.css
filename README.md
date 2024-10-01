@@ -20,20 +20,20 @@
 	<div id="box1">
   <h1>Adam's Resume</h1>
 	</div>
+	<div id="box2">
   <h2>Education</h2>
     <ul>
 	  <li>Moraine Valley Community College Palos Hill, IL Associates degree in Liberal Arts</li>
 	  <li>Bachelors's in Information Technology and Management in Illinois Institute Of Technology</li>
     </ul>
-	<div id="box2">
   <h2>Carl Sandburg High School</h2>
     <ul>
 	  <li>Member of Muslim Student Association Orland Park, IL</li>
 	  <li>GPA 3.7/4.0 May 2021</li>
     </ul>
 	</div>
-	<div id="box3">
   <h2>Experiance</h2>
+	<div id="box3">
   <h3>Volunteer</h3>
     <ul>
 	  <li>Orland Park Prayer Center</li>
