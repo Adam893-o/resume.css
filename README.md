@@ -25,11 +25,14 @@
 	  <li>Moraine Valley Community College Palos Hill, IL Associates degree in Liberal Arts</li>
 	  <li>Bachelors's in Information Technology and Management in Illinois Institute Of Technology</li>
     </ul>
+	<div id="box2">
   <h2>Carl Sandburg High School</h2>
     <ul>
 	  <li>Member of Muslim Student Association Orland Park, IL</li>
 	  <li>GPA 3.7/4.0 May 2021</li>
     </ul>
+	</div>
+	<div id="box3">
   <h2>Experiance</h2>
   <h3>Volunteer</h3>
     <ul>
@@ -45,8 +48,10 @@
 	  <li>Excellent with organizing</li>
 	  <li>Studied Web Development</li>
 	  <li>Software skills in python</li>
+		<li>Studied Linux</li>
 	  <li>Graphic Design</li>
   </ul>
+	</div>
   <h2>Contact Information</h2>
   <div>
     <p><a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin" target="_blank">Linkedin</a></p>
