@@ -10,7 +10,7 @@
       <nav class="navigation">
         <ul>
           <li><a href="jupiter.css">About Jupiter</a></li>
-          <li><a href="project-1-resume.css">Adam's Resume</a></li>
+          <li><a href="resume.css">Adam's Resume</a></li>
           <li><a href="uno.css">Uno Facts</a></li>
         </ul>
     </nav>
