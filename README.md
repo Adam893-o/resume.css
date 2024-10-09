@@ -14,14 +14,13 @@
           <li><a href="resume.html">Adam's Resume</a></li>
           <li><a href="uno2.html">Uno Facts</a></li>
         </ul>
-      </nav>
-    </div>
+    </nav>
   </header>
-    <div>id="box1">
+    <div id="box1">
   <h1>Adam's Resume</h1>
     </div>
 
-  </section>
+  <section>
   <div id="box2">
     <h2>Education</h2>
     <ul>
