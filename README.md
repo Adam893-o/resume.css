@@ -1,4 +1,4 @@
-<!Doctype html>
+<!DOCTYPE html>
 <html lang='en'>
 <head>
   <meta charset="utf-8">
@@ -14,10 +14,11 @@
           <li><a href="resume.html">Adam's Resume</a></li>
           <li><a href="uno2.html">Uno Facts</a></li>
         </ul>
-    </nav>
+      </nav>
+    </div>
   </header>
     <div id="box1">
-  <h1>Adam's Resume</h1>
+      <h1>Adam's Resume</h1>
     </div>
 
   <section>
@@ -33,6 +34,7 @@
       <li>GPA 3.7/4.0 May 2021</li>
     </ul>
   </div>
+  </section>
 
   <section>
    <div id="box3">
@@ -58,7 +60,7 @@
 
   <section>
     <h2>Contact Information</h2>
-    <p><a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin" target="_blank">LinkedIn</a></p>
+    <p><a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
     <address>
       Email: <a href="mailto:asharifeh@hawk.iit.edu">asharifeh@hawk.iit.edu</a>
     </address>
