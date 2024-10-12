@@ -66,7 +66,7 @@ header {
 
 #box1 {
 	background-color: #5dffdc;
-	display: fixed;
+	display: flow;
 	padding: 20px;
 	border:10px ridge silver;
 	width: 40%;
@@ -90,7 +90,7 @@ header {
 
 #box2 {
 	background-color: #5dffdc;
-	display: fixed;
+	display: flow;
 	padding: 20px;
 	border:10px ridge silver;
 	width: 40%;
@@ -106,7 +106,7 @@ li {
 
 #box3 {
 	background-color: #5dffdc;
-	display: fixed;
+	display: flow;
 	padding: 20px;
 	border:10px ridge silver;
 	width: 40%;
@@ -156,7 +156,7 @@ footer {
 }
 
 .content-wrapper {
-	padding: 20px
+  padding: 20px;
   background-image: url("../Media/Orange.jpg");
 	background-size: cover;
   float: left;
@@ -168,10 +168,10 @@ p {
 	line-height: 1.6;
 }
 .container {
-	justify-content: center;
-	padding-left: 20px;
+  justify-content: center;
+  padding-left: 20px;
   align-items: center;
-	min-height: 100vh;
+  min-height: 100vh;
 }
 
 main-nav ul li a:hover {
@@ -183,10 +183,4 @@ content-wrapper {
   text-align: center;
 	font-family: sans-serif, "Helvetica Neue", Arial;
 	font-stretch: expanded;
-}
-
-strong {
-	font-weight: 0.9em;
-	color: blue;
-	font-weight: bold;
 }
