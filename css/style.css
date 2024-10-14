@@ -73,6 +73,13 @@ header {
 	margin: 0px auto;
 }
 
+experiance {
+  background color: green;
+  font-size: 1.3m;
+  padding: 1.2em;
+  border-radius: 10px;
+}
+
 .header-content {
     display: flex;
     justify-content: flex-end;
