@@ -21,32 +21,50 @@ body {
 
 
 .nav-container {
-	display: flex;
+  display: flex;
   justify-content: center;
-	unicode-bidi: isolate;
+  unicode-bidi: isolate;
   background-color: rgba(27,127,204,.8);
-	padding: 15px;
-	border-radius: 10px;
-	box-shadow: 0px 4px 8px rgba(0,0,0,0.3)
-}
-
-.navigation ul {
-	  display: flex;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.3)
 }
 
 .navigation ul li {
-	margin-right: 20px;
+  margin-right: 20px;
   background-color: #0056a6; 
 }
 
+h2 {
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  unicode-bidi: isolate;
+  font-family: "cursive", serif; 
+}
+
+.navigation ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li a:hover {
+  color: #fff580; 
+  background-color: #2200fb; 
+  text-decoration: underline; 
+}
+
 .page-wrapper {
-	width: 890px;
-	margin: 0 auto;
-	box-shadow: 0px 4px 8px rgba(40,67,135,1);
-	border-radius: 12px 12px 0px 0px;
+  width: 890px;
+  margin: 0 auto;
+  box-shadow: 0px 4px 8px rgba(40,67,135,1);
+  border-radius: 12px 12px 0px 0px;
 }
 
 header {
@@ -56,28 +74,22 @@ header {
 }
 
 .header h1 {
-	position: inherit;
-	left: 800px;
-	top: -400px;
-	font-size: 2em;
-	font-family: 'Devonshire', Arial;
-	color: #00ffea
+  position: inherit;
+  left: 800px;
+  top: -400px;
+  font-size: 2em;
+  font-family: 'Devonshire', Arial;
+  color: #00ffea
 }
 
 #box1 {
-	background-color: #5dffdc;
-	display: flow;
-	padding: 20px;
-	border:10px ridge silver;
-	width: 40%;
-	margin: 0px auto;
-}
-
-experiance {
-  background color: green;
-  font-size: 1.3m;
-  padding: 1.2em;
-  border-radius: 10px;
+  background-color: #5dffdc;
+  display: flow;
+  padding: 20px;
+  border:10px ridge silver;
+  width: 40%;
+  margin: 0px auto;
+  font-family: "cursive", fangsong;
 }
 
 .header-content {
@@ -96,27 +108,31 @@ experiance {
 }
 
 #box2 {
-	background-color: #5dffdc;
-	display: flow;
-	padding: 20px;
-	border:10px ridge silver;
-	width: 40%;
+  background-color: #5dffdc;
+  display: flow;
+  padding: 20px;
+  border:10px ridge silver;
+  width: 60%;
+  margin: 0px auto;
 }
 div {
-	text-align: center;
+  text-align: center;
 }
 
 li {
-	color: black;
-	font-size: 1em;
+  color: black;
+  font-size: 1em;
+  border: 1px solid;
+  font-family: "Verdana", sans-serif;
 }
 
 #box3 {
-	background-color: #5dffdc;
-	display: flow;
-	padding: 20px;
-	border:10px ridge silver;
-	width: 40%;
+  background-color: #5dffdc;
+  display: flow;
+  padding: 20px;
+  border:10px ridge silver;
+  width: 90%;
+  margin: 0px auto;
 }
 
 header a .image1 img {
@@ -126,20 +142,19 @@ header a .image1 img {
 }
 
 ul {
-	color: black;
-	font-size: 1em;
+  color: black;
+  font-size: 1em;
 }
 
 
 ul {
-	padding-left:20px;
-	margin: 20px 0;
-	color; 567
+  padding-left:20px;
+  margin: 20px 0;
 }
 
 h2 strong{
-	font-size: 2em;
-	font-weight: 800;
+  font-size: 2em;
+  font-weight: 800;
 }
 
 footer {
@@ -158,22 +173,18 @@ footer {
   font-size: 1.2em;
   padding: 10px 20px; 
   background-color: #1b7fcc;
+  font-family: 'Devonshire', Arial;
   border-radius: 5px;	
   transition: background-color 0.3s ease; 
 }
 
-.content-wrapper {
-  padding: 20px;
-  background-image: url("../Media/Orange.jpg");
-	background-size: cover;
-  float: left;
+p {
+  color: #ffffff;
+  font-size: 1em;
+  line-height: 1.6;
 }
 
-p {
-	color: #ffffff;
-	font-size: 1em;
-	line-height: 1.6;
-}
+
 .container {
   justify-content: center;
   padding-left: 20px;
@@ -188,6 +199,11 @@ main-nav ul li a:hover {
 content-wrapper {
   width: 960px;
   text-align: center;
-	font-family: sans-serif, "Helvetica Neue", Arial;
-	font-stretch: expanded;
+  font-family: sans-serif, "Helvetica Neue", Arial;
+  font-stretch: expanded;
+}
+
+section {
+    display: block;
+    unicode-bidi: isolate;
 }
